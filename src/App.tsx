@@ -7,8 +7,7 @@ import { Authorization, AuthorizationContext } from "coinopreact/auth.context";
 const App = () => {
 	return (
 		<>
-			<CoinOpProvider GAME_SLUG="DCF" API_URL="https://example.com">
-				{/* The API is will not work in this case, you should be given an approved API URL. */}
+			<CoinOpProvider GAME_SLUG="DCF">
 				<Demo />
 			</CoinOpProvider>
 		</>

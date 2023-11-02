@@ -17,7 +17,7 @@
     "@solana/web3.js": "^1.87.3",
     "@types/luxon": "^3.3.3",
     "axios": "^1.6.0",
-    "coinopreact": "^1.0.0",
+    "coinopreact": "^1.0.1",
     "dotenv": "^16.3.1",
     "luxon": "^3.4.3",
     "moize": "^6.1.6",
